@@ -6,7 +6,7 @@ Li Shi
 ID:1694422
 
 Final Project
-Poplular Movies Application V1.3.2 
+Poplular Movies Application V1.3.2.2 
 
 Main Function:
 Search for information of over a thousand popular movies including Movie Overview, directors and actors.
